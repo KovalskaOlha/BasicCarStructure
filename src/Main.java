@@ -9,5 +9,10 @@ public class Main {
        x.cylinders="8";
        x.size="12323";
        x.weight="2000";
+
+       Color c=new Color();
+       c.colorLights="green";
+       c.colorType="neon";
+       c.colorWindows="true";
     }
 }
