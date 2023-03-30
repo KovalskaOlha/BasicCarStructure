@@ -9,5 +9,10 @@ public class Main {
        x.cylinders="8";
        x.size="12323";
        x.weight="2000";
+
+       Lights neon=new Lights();
+       neon.color="red";
+       neon.size="big";
+       neon.intensity="wooooow";
     }
 }
